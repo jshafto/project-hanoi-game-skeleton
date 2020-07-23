@@ -1,5 +1,8 @@
 # Towers of Hanoi: Reading and Passing Tests
+## About this implementation
+Completed as part of the App Academy curriculum. Implementation by Daniel Ford and Juliet Shafto.
 
+## Project Description
 Time to put your newfound mocha knowledge to the test! In this project you'll be
 following what is now a familiar pattern - running automated tests and writing
 code to pass those tests. The difference this time round is that we will only
